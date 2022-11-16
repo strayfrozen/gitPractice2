@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\stray\eclipse-workspace\GitPractice2.0\.metadata\.plugins\org.eclipse.jdt.core
+3011209426.index
+4219693171.index
+1865797976.index
